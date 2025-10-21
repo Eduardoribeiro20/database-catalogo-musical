@@ -54,6 +54,7 @@ erDiagram
     musicas ||--o{ Artistas : "interpretada por"
     musicas ||--o{ Albuns : "faz parte de"
     Albuns ||--o{ Artistas : "lançado por"
----
-🧑‍💻 Autor
- * **Eduardo Ribeiro** - [GitHub](https://github.com/Eduardoribeiro20)
+``
+
+## 🧑‍💻 Autor
+* **Eduardo Ribeiro** - [GitHub](https://github.com/Eduardoribeiro20)
